@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+._*
+
+# Files that may appear on external drives
+.Spotlight-V100
+.Trashes
+
+# macOS volume info
+.VolumeIcon.icns
+
+# Finder settings
+Icon
